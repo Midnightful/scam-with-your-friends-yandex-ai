@@ -1,0 +1,15 @@
+.env
+.env.*
+*.log
+*.png
+*.jpg
+*.bin
+*.dll
+bin/
+obj/
+secrets/
+settings/
+
+build/
+*.zip
+*.user
